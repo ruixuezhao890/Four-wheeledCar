@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.pio/libdeps/genericSTM32F103C8/HC-SR04/src/HCSR04.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/MyKey/MyKey.cpp" charset="GBK" />
+  </component>
+</project>
